@@ -8,13 +8,6 @@ An industrial software solution designed to optimize pallet layouts for heteroge
 
 ---
 
-## 📊 プレゼンテーション (Project Presentation)
-
-📄 **Project Presentation**
-
-https://docs.google.com/presentation/d/1OfnqfRTDWmUBt1-uSu2hynFBMfidQpZ7/edit?usp=sharing
-
----
 
 # 概要 (Overview)
 
